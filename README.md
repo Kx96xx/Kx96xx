@@ -1,8 +1,9 @@
 ### Karl Hulse
 
 Mobile core engineer: 4G/5G core, HSS/HLR, IMS, roaming, Diameter, GTP and SS7. I debug
-mobile networks from packet captures, and I build tools for it with Claude Code: I write
-the requirements from the 3GPP specs, Claude Code writes the code, I test on captures.
+mobile networks from packet captures, and I build tools for it with AI coding agents
+(Claude Code, Codex and open-source models such as DeepSeek and GLM): I write the
+requirements from the 3GPP specs, the agents write the code, I test on captures.
 
 **Projects**
 
