@@ -14,4 +14,4 @@ requirements from the 3GPP specs, the agents write the code, I test on captures.
 - [ticketbench](https://github.com/Kx96xx/ticketbench): can an AI agent diagnose a mobile
   connectivity ticket from a capture? Scored without a model judge.
 
-[LinkedIn](https://www.linkedin.com/in/karl-h-517774115)
+[LinkedIn](https://www.linkedin.com/in/karl-hulse)
